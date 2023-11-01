@@ -16,7 +16,7 @@
     "@styled-system/css": "^5.1.5",
     "copy-to-clipboard": "^3.3.1",
     "dotenv": "^10.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "next": "13.5.0",
