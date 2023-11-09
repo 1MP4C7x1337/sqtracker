@@ -10,7 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@sentry/nextjs": "^7.36.0",
+    "@sentry/nextjs": "^7.77.0",
     "@styled-icons/boxicons-regular": "^10.38.0",
     "@styled-icons/boxicons-solid": "^10.38.0",
     "@styled-system/css": "^5.1.5",
